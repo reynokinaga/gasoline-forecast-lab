@@ -22,9 +22,3 @@ Refinery-closure and war flags are still on at the end of the sample, so reopeni
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## Deploy (Streamlit Community Cloud)
-Push this folder to a GitHub repo, then at share.streamlit.io choose the repo and set `app.py` as the main file.
-
-## AI tools used
-Claude (Anthropic) was used to help write and test the code. Edit this section to match your team's actual use.
